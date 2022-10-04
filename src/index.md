@@ -16,7 +16,7 @@ Vad gör du här, försvin från sidan
 
 ## The return of *Mö*
 
-**[länk](https://www.jensa.xyz/posts/kom-igang-med-eleventy/)**
+**[Jens roliga sida: kan va bra att ha](https://www.jensa.xyz/posts/kom-igang-med-eleventy/)**
 
 {% image "./src/images/CvBObulUAAASAqV.jpg", "glad man med vapen", "(min-width: 30em) 50vw, 100vw" %}
 

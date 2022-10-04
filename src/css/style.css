@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+
+body{
+    max-width: min(80ch, 100vw - 1rem);
+    margin-inline: auto;
+    background-color: #4A412A;
+    color: #d9eb13;
+    font-family: 'DynaPuff', cursive;
+}
+nav > ul{
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+}
+
+a:hover{
+    background-color: blueviolet;
+}
+a{
+    color: hotpink;
+}
+

@@ -7,4 +7,5 @@ title: Home
 
 > vi vill inte ha Telia
 
-{% image "/images/thumb_cursed-kids-show-61226833.jpg", "vill inte", "600px", "auto"%}
+{% image "./src/images/panda.jpg", "Panda", "(min-width: 30em) 50vw, 100vw" %}
+

@@ -18,9 +18,11 @@ Vad gör du här, försvin från sidan
 
 **[länk](https://www.jensa.xyz/posts/kom-igang-med-eleventy/)**
 
-{% image "/images/CvBObulUAAASAqV.jpg", "man", "1000px", "auto"%}
+{% image "./src/images/CvBObulUAAASAqV.jpg", "glad man med vapen", "(min-width: 30em) 50vw, 100vw" %}
 
-> Det finns ingen gud:
+
+
+> Det finns ingen:
 
 > Tror jag
 

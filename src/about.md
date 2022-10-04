@@ -4,5 +4,7 @@ title: Home
 ---
 Denna sida finns Ö )
 
-{% image "/images/legitjag.png", "alexander", "600px", "auto"%}
+
+{% image "./src/images/legitjag.png", "Alexandro", "(min-width: 30em) 50vw, 100vw" %}
+
 
